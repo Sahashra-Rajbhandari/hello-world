@@ -1,6 +1,7 @@
 # hello-world
 
 Hi Guys,
-This is Sahashra.
-I am from Nepal.
-And I'm not a robot.
+This is Sahashra Rajbhandari.
+My Student Number is 991478150.
+Login is rajbhans.
+And I'm Studying in Sheridan Davis Campus.
